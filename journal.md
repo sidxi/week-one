@@ -8,7 +8,7 @@ Github, however, I think is going to be more of a learning curve. I didn’t hav
 
 I was also very confused by this entire paragraph
 
-insert image here
+![screenshot] (Week1-DemoHelp-Screenshot.PNG)
 
 Because I didn’t know what a command prompt was. Luckily, I was able to scroll through the #week-one channel and Dr. Graham had answered a similar question from another student. As such, I decided to base my demo help request around it. 
 
