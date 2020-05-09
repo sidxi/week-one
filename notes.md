@@ -1,6 +1,5 @@
 # New terms, alphabetical:
 -	.gitignore: A plain text file where each line contains a pattern for files/directories to ignore. 
-o	Follow up question that I’m still not sure about: Why would you want to ignore a file?
 -	.md: this extension comes from a word: markdown. It's a markup language for text formatting.
 -	Command prompt: a command line interpreter application available in most Windows operating systems
 -	Commit: A commit, or "revision", is an individual change to a file (or set of files)
@@ -29,3 +28,4 @@ o	Follow up question that I’m still not sure about: Why would you want to igno
 -	I’m going to have to get used to taking screenshots of all the stuff I do
 -	LOVING the preview option in git – thank god!! 
 - It still feels weird, but nice, to have other people be able to interact with the annotation work I'm doing. I think I'm going to have to keep pressing up against that feeling until I get used to it
+- Why would you want to ignore a file?
